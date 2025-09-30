@@ -1,6 +1,14 @@
 #font{
     font-family:poppins;
 }
+#nav{
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+}
+#slider{
+    width: 100%;
+}
 #science{
     height: 700px;
 }
